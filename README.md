@@ -8,7 +8,7 @@ The objective is to write a program that will collect the names and bids of diff
 
 ```
 Welcome to the secret auction program. 
-What is your name?: Angela
+What is your name?: Kavinda
 ```
 ```
 What's your bid?: $123
@@ -21,21 +21,11 @@ yes
 If there are other bidders, the screen should clear, so you can pass your phone to the next person. If there are no more bidders, then the program should display the name of the winner and their winning bid. 
 
 ```
-The winner is Elon with a bid of $55000000000
+The winner is Elon with a bid of $550
 ```
-
-Use your knowledge of Python dictionaries and loops to solve this challenge. 
-
-
-# My console doesn't clear!
-
-This will happen if you’re using an IDE other than replit (e.g., VSCode, PyCharm etc). Similar to how we used the "random" module previously, in this project we will use the "replit" module. The `clear()` function is available here via the replit module without any extra configuration. 
-
-**I’ll cover how to use PyCharm and import modules on Day 15**. That said, you can write your own `clear()` function or configure your IDE like so: 
-
-[Udemy Q&A Answer](https://www.udemy.com/course/100-days-of-code/learn/lecture/19279420#questions/16084076)
 
 
 # Solution
+![image](https://github.com/778569/Blind-Auction-Python-Project10_beginnerLvl/assets/52319671/eacc7b11-6748-489b-990e-d6d754a34645)
 
-[https://replit.com/@appbrewery/blind-auction-completed](https://replit.com/@appbrewery/blind-auction-completed?v=1)
+
